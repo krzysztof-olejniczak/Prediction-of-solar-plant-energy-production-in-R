@@ -1,0 +1,10 @@
+base
+ggplot2
+gganimate
+dplyr
+knitr
+lattice
+caret
+kableExtra
+formattable
+bindrcpp
